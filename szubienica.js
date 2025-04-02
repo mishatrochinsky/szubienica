@@ -115,7 +115,7 @@ else{
     //skuch
 
     ile_skuch++;
-    var obraz = "img/s"+ile_skuch +".jpg"
+    var obraz = "s"+ile_skuch +".jpg"
     document.getElementById("szubienica").innerHTML='<img src="'+obraz+'"alt=""/>';
 }
 
